@@ -1,7 +1,7 @@
 
 # Sales Support Management
 
-# A CX Initiative Management Dashboard
+# A Sales Support Management Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/022619cf-6d4c-499b-b42b-3f9e05575e9d/ReportSectionbdce20725032ccbed307?experience=power-bi
 
